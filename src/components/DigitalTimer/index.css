@@ -1,0 +1,65 @@
+/* Write your CSS here */
+.background {
+  background-image: linear-gradient(to right, #ffffff, #cffcf1);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.background-image {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/digital-timer-elapsed-bg.png');
+  background-size: cover;
+  height: 60vh;
+  width: 40%;
+  padding: 230px;
+}
+
+.card {
+  background-color: #ffffff;
+  height: 20vh;
+  border-radius: 180px;
+  text-align: center;
+}
+.heading {
+  padding: 10px;
+}
+
+.second-one {
+  display: flex;
+}
+
+.size-playIcon {
+  height: 50px;
+  margin-top: 130px;
+  margin-left: 50px;
+}
+.seperate {
+  display: flex;
+}
+.button {
+  background-color: transparent;
+  border: none;
+  margin-bottom: 20px;
+}
+.paragraph {
+  margin-top: 270px;
+}
+.third-one {
+  display: flex;
+  flex-direction: column;
+}
+.paragraph2 {
+  margin-top: 350px;
+  margin-right: 450px;
+}
+
+.plusAndMinusButtons {
+  display: flex;
+}
+.button1 {
+  border: none;
+  margin-left: 20px;
+  background-color: transparent;
+}
